@@ -1,0 +1,7 @@
+/* Importamos la fuente desde Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+/* Aplicamos la fuente a todos los elementos */
+body {
+  font-family: 'Varela Round', sans-serif;
+}

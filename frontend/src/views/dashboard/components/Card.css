@@ -1,0 +1,30 @@
+.card {
+    background-color: #EEF1F5;
+    border: #6062CF 1px solid;
+    border-radius: 4rem;
+    width: 28rem;
+    height: 8rem;
+    width: 300px;
+    box-shadow: 21px 28px 15px 5px rgba(0,0,0,0.1);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+}
+
+
+.details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    width: 50%;
+    overflow: hidden;
+}
+
+.avatar {
+    width: 50%;
+}   
+  
